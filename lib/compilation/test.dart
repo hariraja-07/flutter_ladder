@@ -1,0 +1,3 @@
+void add() {
+  print("hello");
+}

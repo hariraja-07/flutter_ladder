@@ -6,6 +6,21 @@
 > **A step-by-step Flutter learning app with interactive coding** 
 --- 
 
+> **Note:** This project is a work in progress.  
+> Modules are added step by step, so expect some rough edges ✨
+---
+
+## Work in Progress
+
+- Added **Hello Flutter** module as the starting point.  
+- Building a **workspace** (editor + instructions + output preview).  
+- Tried using an API to interpret Dart code — blocked by **CORS issues**.  
+- Now experimenting with a **lite homemade Dart interpreter** instead.  
+- Connected **code editor → run button → output**, seems to be working.  
+- Not sure exactly where this project will go, but excited to find out.  
+- Stay tuned 🙂  
+
+
 ## Installation 
 
 1. Clone the repository:
