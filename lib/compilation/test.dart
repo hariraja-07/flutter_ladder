@@ -1,3 +1,0 @@
-void add() {
-  print("hello");
-}
